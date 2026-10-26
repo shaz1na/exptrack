@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VariableExpense
+comment1.params=
+comment1.target=void\ date()
+comment2.params=makanLuar\ shopping
+comment2.target=float\ totalVariable(float,\ float)
+comment3.params=b
+comment3.target=float\ VEmain(float)
+numComments=4

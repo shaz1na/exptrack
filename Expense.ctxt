@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Expense
+comment1.params=jumlah
+comment1.target=float\ amount(float)
+comment2.params=
+comment2.target=void\ date()
+comment3.params=MonthlyExpenses
+comment3.target=float\ generateMonthlyReport(float)
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ Main(java.lang.String[])
+comment2.params=a
+comment2.target=float\ FEmain(float)
+comment3.params=b
+comment3.target=float\ VEmain(float)
+comment4.params=totalFixed\ totalVariable
+comment4.target=float\ total(float,\ float)
+comment5.params=MonthlyExpenses
+comment5.target=float\ generateMonthlyReport(float)
+numComments=6

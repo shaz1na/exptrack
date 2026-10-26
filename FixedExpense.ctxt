@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FixedExpense
+comment1.params=
+comment1.target=void\ date()
+comment2.params=sewa\ pinjaman\ bil
+comment2.target=float\ totalFixed(float,\ float,\ float)
+comment3.params=a
+comment3.target=float\ FEmain(float)
+numComments=4
